@@ -1,0 +1,33 @@
+{
+    "name": "PurrSpectiveToken",
+    "symbol": "PST",
+    "description": "PurrSpectiveToken (PST) is a refreshing 'purr-spective' on digital currency. With a mission to spread joy and aid animal welfare organizations, PST is the digital currency for those who believe finance can be fun and philanthropic. Embrace 'Chill, Trade, Aid' with PST!",
+    "seller_fee_basis_points": 5,
+    "image": "https://i.imgur.com/v6Z2dip.png",
+    "attributes": [
+        {
+            "trait_type": "Motto",
+            "value": "Chill, Trade, Aid"
+        },
+        {
+            "trait_type": "Mascot",
+            "value": "Purrl"
+        }
+    ],
+    "external_url": "https://purrspectivetoken.gitbook.io/purrspectivetoken/",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://i.imgur.com/v6Z2dip.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "G8qbhYwFaADnG3jV5feTg8gvAkyPeJ9kgxMneSUgwaQm",
+                "share": 100
+            }
+        ]
+    }
+}
